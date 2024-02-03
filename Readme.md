@@ -35,7 +35,7 @@ Designing a box with a 3D printer (bonus section)
 
 ## How to Run
 
-In this part, you should provide instructions on how to run your project. Also if your project requires any prerequisites, mention them. 
+You just need to add the Wifi information in the hardware uploaded code. then run the server and see the charts in your localhost.
 
 #### Examples:
 #### Build Project
@@ -65,6 +65,7 @@ Using image is required.
 Some links related to your project come here.
  - [ESP32 Pinout](https://randomnerdtutorials.com/esp32-pinout-reference-gpios/)
  - [Django Doc](https://docs.djangoproject.com/en/5.0/)
+ - [MQTT](https://randomnerdtutorials.com/esp32-mqtt-publish-subscribe-arduino-ide/)
 
 
 ## Authors
