@@ -70,5 +70,5 @@ Some links related to your project come here.
 
 ## Authors
 Authors and their github link comes here.
-- [Alireza Noroozi]((https://github.com/Alirzeanoroozi)https://github.com/Alirzeanoroozi)
+- [Alireza Noroozi](https://github.com/Alirzeanoroozi)
 
